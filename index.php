@@ -112,7 +112,7 @@ if (isset($_POST['submit'])) {                                                  
     <!-- Nabar Start -->
 
     <nav class="navbar">
-        <div class="logo"><img src="../image/download.png" style="height: 60px; width: 100px; " alt=""></div>
+        <div class="logo"><img src="download.png" style="height: 60px; width: 100px; " alt=""></div>
         <ul class="nav-links">
             <li><a style="font-size: 30px;" href="index.php">Home</a></li>
 
